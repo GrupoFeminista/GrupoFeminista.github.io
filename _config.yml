@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Grupo Feminista iha Timor
-description: Pagina ba Grupo Feminista iha Timor. Luta ba igualdade!
+description: Luta ba igualdade!
+github:
+    is_project_page: false
